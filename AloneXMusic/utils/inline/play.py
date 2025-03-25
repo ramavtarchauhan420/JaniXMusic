@@ -51,7 +51,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 80 <= umm < 95:
         bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─"
     else:
-        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·"
+        bar = "-ˋˏ𝗝𝗮𝗻𝗶♪𝗠𝘂𝘀𝗶𝗰ˋˏ-ˋ"
     buttons = [
                 [
             InlineKeyboardButton(
@@ -69,16 +69,16 @@ def stream_markup_timer(_, chat_id, played, dur):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="♪ 𝗝𝗮𝗻𝗶",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/RAM_HACKER_RP",
 
             ),
             InlineKeyboardButton(
 
-                text="💌 ɢʀᴏᴜᴘ",
+                text="💌 𝗖𝗵𝗮𝘁",
 
-                url=f"{SUPPORT_CHAT}",
+                url=f"https://t.me/+ZInYo4WtbRU0NzU1",
 
             ),
         ],
@@ -99,16 +99,16 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="ᴅᴇᴠ 💕",
+                text="♪ 𝗝𝗮𝗻𝗶",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/RAM_HACKER_RP",
 
             ),
             InlineKeyboardButton(
 
-                text="💌 ɢʀᴏᴜᴘ",
+                text="💌 𝗖𝗵𝗮𝘁",
 
-                url=f"{SUPPORT_CHAT}",
+                url=f"https://t.me/+ZInYo4WtbRU0NzU1",
 
             ),
         ],
